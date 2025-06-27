@@ -1227,6 +1227,7 @@
     <Compile Include="Emulator/Peripherals/Peripherals/Timers/RenesasDA_Watchdog.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/GPIOPort/RenesasDA14_GPIO.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/SPI/RenesasDA_SPI.cs" />
+    <Compile Include="Emulator/Peripherals/Peripherals/Timers/S32K1xx_WDOG.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Timers/S32K3XX_PeriodicInterruptTimer.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Timers/S32K3XX_SystemTimerModule.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Timers/S32K3XX_SoftwareWatchdogTimer.cs" />
